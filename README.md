@@ -1,4 +1,5 @@
 Program
 =======
 
-Program yang saya buat saat kuiah
+Ini merupakan contoh program yang saya buat dibangku perkuliahan. 
+Anggit Suko Pamungkas.
